@@ -15,7 +15,7 @@ export default {
   },
   data: function() {
     return {
-      github: "https://github.com/suna-aquatope/goindex-theme-acrou",
+      github: "https://github.com/suna-aquatope/goindex-theme-acroi",
     };
   },
   watch: {
